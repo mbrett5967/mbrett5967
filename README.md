@@ -7,14 +7,13 @@
 
 
 - 🌱 I’m currently learning ...
-- C# basics, syntax , libraries etc
-- UI platforms, opensource such as Avalonia
-- How to commit my first app!
+
+* C# basics, syntax , libraries etc
+* Ui platforms, opensource such as Avalonia
+* How to commit my first app!
 
 
-- 📫 How to reach me ...
 
-- ⚡ Fun fact: ...
 
 <!---
 mbrett5967/mbrett5967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
