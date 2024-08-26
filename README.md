@@ -7,9 +7,9 @@
 
 
 - 🌱 I’m currently learning ...
-> C# basics, syntax , libraries etc
-> UI platforms, opensource such as Avalonia
-> How to commit my first app!
+- C# basics, syntax , libraries etc
+- UI platforms, opensource such as Avalonia
+- How to commit my first app!
 
 
 - 📫 How to reach me ...
