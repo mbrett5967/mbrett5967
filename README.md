@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...
 
 * C# basics, syntax , libraries etc
-* Ui platforms, opensource such as Avalonia
+* Ui frameworks, opensource such as Avalonia
 * How to commit my first app!
 
 
