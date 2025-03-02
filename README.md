@@ -10,7 +10,10 @@
 
 * C# basics, syntax , libraries etc
 * Ui frameworks, opensource such as Avalonia
-* How to commit my first app!
+* Learning more about commiting projects
+* API usuage
+* .NET MAUI
+  
 
 
 
