@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning ...
 
-* C# basics, syntax , libraries etc
 * Ui frameworks, opensource such as Avalonia
 * Learning more about commiting projects
 * API usuage
 * .NET MAUI
+* Web application development
   
 
 
