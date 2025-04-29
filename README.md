@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning ...
 
-* Ui frameworks, opensource such as Avalonia
-* Learning more about commiting projects
+* ASP.NET
+* Ui frameworks, Avalonia etc
+* Commiting projects
 * API usuage
 * .NET MAUI
-* Web application development
+
   
 
 
