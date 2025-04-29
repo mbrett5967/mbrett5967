@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ...
 
-* ASP.NET
+* ASP.NET  - starting with ASP.NET MVC
 * Ui frameworks, Avalonia etc
 * Commiting projects
 * API usuage
