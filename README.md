@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in ...
-> App development, video game development, desktop applications and cloud services.
+> App development ( web based and Desktop), video game development, cloud services.
 
 
 - 🌱 I’m currently learning ...
