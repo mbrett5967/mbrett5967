@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...
 
 * ASP.NET  - starting with ASP.NET MVC
-* Ui frameworks, Avalonia , BLazor etc
+* Ui frameworks, Avalonia , Blazor etc
 * Commiting projects
 * API usuage
 * .NET MAUI
