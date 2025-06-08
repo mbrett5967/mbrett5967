@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning ...
 
-* ASP.NET  - starting with ASP.NET MVC
+* ASP.NET Core  
 * Ui frameworks, Avalonia , Blazor etc
 * Commiting projects
 * API usuage
-* .NET MAUI
+
 
   
 
