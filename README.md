@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbrett5967
-> I'm an aspiring .NET developer who is looking to gain as much knowledge and experience as I can. This page is for me to display my learning journey.
+> I'm an aspiring .NET developer who is looking to gain as much knowledge and experience as I can. This page is for me to document my learning journey.
 
 
 - 👀 I’m interested in ...
