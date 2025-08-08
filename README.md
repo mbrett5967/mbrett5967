@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbrett5967
-> I'm an aspiring .NET developer who is looking to gain as much knowledge and experience as I can. This page is for me to document my learning journey.
+> I'm an aspiring .NET developer who is looking to gain as much knowledge and experience as I can. This account is for me to document my journey.
 
 
 - 👀 I’m interested in ...
@@ -8,10 +8,12 @@
 
 - 🌱 I’m currently learning ...
 
-* ASP.NET Core  
+* ASP.NET Core
+* .NET Core 
 * Ui frameworks, Avalonia , Blazor etc
 * Commiting projects
 * API usuage
+* CSS, HTML 
 
 
   
