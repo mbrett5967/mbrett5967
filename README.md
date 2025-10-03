@@ -10,8 +10,8 @@
 
 * ASP.NET Core
 * .NET Core 
-* Ui frameworks, Avalonia , Blazor etc
-* Commiting projects
+* Ui frameworks, Avalonia , Razor etc
+* PostgreSQL
 * API usuage
 * CSS, HTML 
 
