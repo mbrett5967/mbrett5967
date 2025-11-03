@@ -8,16 +8,22 @@
 
 - 🌱 I’m currently learning ...
 
-* ASP.NET Core
+* ASP.NET MVC 
 * .NET Core 
 * Ui frameworks, Avalonia , Razor etc
 * PostgreSQL
-* API usuage
-* CSS, HTML 
+* Web APIs
+* CSS, HTML, JS
 
 
+- Current Project WIP ...
   
+HR platform that tracks relational data for absence. 
 
+Using: 
+* ASP.NET MVC
+* EF core ORM
+* PostgreSQL
 
 
 
