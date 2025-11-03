@@ -11,7 +11,7 @@
 
 * ASP.NET MVC 
 * .NET Core 
-* Ui frameworks, Avalonia , Razor etc
+* UI Design
 * PostgreSQL
 * Web APIs
 * CSS, HTML, JS
