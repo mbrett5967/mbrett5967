@@ -5,6 +5,7 @@
 - 👀 I’m interested in ...
 > App development ( web based and Desktop), video game development, cloud services.
 
+---------------------------------------
 
 - 🌱 I’m currently learning ...
 
@@ -15,10 +16,11 @@
 * Web APIs
 * CSS, HTML, JS
 
+---------------------------------------
 
-- Current Project WIP ...
+Current Project WIP ...
   
-HR platform that tracks relational data for absence. 
+> HR platform database that tracks relational data for absence
 
 Using: 
 * ASP.NET MVC
