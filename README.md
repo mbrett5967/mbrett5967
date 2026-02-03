@@ -20,7 +20,7 @@
 
 Current Project WIP ...
   
-> HR platform database that tracks relational data for absence
+> E-commerce platform
 
 Using: 
 * ASP.NET MVC
