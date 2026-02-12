@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning ...
 
 * ASP.NET MVC 
-* .NET Core 
-* UI Design
+* Entity Framework Core
+* UI Design - Razor Pages , Bootstrap , Blazor
 * PostgreSQL
 * Web APIs
 * CSS, HTML, JS
@@ -26,6 +26,7 @@ Using:
 * ASP.NET MVC
 * EF core ORM
 * PostgreSQL
+* Razor Pages 
 
 
 
